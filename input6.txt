@@ -1,0 +1,10 @@
+Alice 72.5
+Chris 65.2
+Gwen 52.1
+Lindsy 42.5
+Izzy 73.9
+Owen 133.4
+Troy 65.5
+Cody 61.1
+Isaac 59.1
+Trixie 60.0
